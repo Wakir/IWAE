@@ -1,4 +1,4 @@
-## IMB-WAE
+## IWAE
 
 This repository contains a code and results for experiments conducted in paper "**Changing Lineup Classifier Ensemble for Drifting Imbalanced Data Streams**".
 
