@@ -15,7 +15,7 @@ pip install -r requirments.txt
 Running the experiment is done by calling function `src/experiment1.py` or `src/experiment2.py` with the desired input parameters. 
 
 `Experiment1.py` contains experiment for synthetic datasets generated from `StreamGenerator`.
-`Experiment2.py` uses INSECTS dataset located in 'src/real_str'.
+`Experiment2.py` uses INSECTS dataset located in `src/real_str`.
 
 The hiperparameters uses in following experiments are:
 
